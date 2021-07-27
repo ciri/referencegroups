@@ -4,6 +4,10 @@ Code and data to accompany Influencer-Generated Reference Groups by Junque de Fo
 
 
 
+[TOC]
+
+
+
 ## Tools
 
 Our code relies on the following tools which must be installed prior to running the code.
@@ -48,4 +52,9 @@ Our code relies on the following tools which must be installed prior to running 
 
 ## Code/Set-up
 
-To be added upon publication.
+1. Clone the github repository
+2. Tools need to be installed in the src/lib folder
+3. Data should be placed in the src/data folder
+4. An empty src/output folder should be created.
+5. Run by opening Main.ipynb
+

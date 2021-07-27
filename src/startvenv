@@ -1,0 +1,5 @@
+#!/bin/bash
+source env/bin/activate
+
+# Jupyter-lab install kernel:
+# python -m ipykernel install --user --name=env
