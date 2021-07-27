@@ -4,6 +4,6 @@ src/counterfitting
 src/env
 src/cache
 src/output
-startenv
+src/startenv
 src/.ipynb_checkpoints
 
